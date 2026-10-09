@@ -1,0 +1,29 @@
+# === Large data files (too large for GitHub) ===
+# Block large PaySim-style CSVs and zips by pattern
+data/paysim1/*.csv
+data/online-payments/*.csv
+data/upi-india/*.csv
+data/**/*.zip
+data/**/*.parquet
+data/**/*.feather
+*.zip
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === Models (large binaries) ===
+models/*.pk
