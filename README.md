@@ -179,8 +179,8 @@ Execute all cells sequentially to run DuckDB SQL queries, feature engineering, X
 
 This project is a reproduced and documented implementation based on the original open-source project by **Isheeka Mukhopadhyay**.
 
-* **Original Repository**: [IsheekaMukhopadhyay/fraud-detection](https://github.com/IsheekaMukhopadhyay/fraud-detection)
-* **Original Author**: Isheeka Mukhopadhyay (`IsheekaMukhopadhyay`)
+* **Original Repository**: [ SampriktaDe/fraud-detection](https://github.com/SampriktaDe/fraud-detection)
+* **Original Author**: Samprikta De
 * **Academic Project Reference**: *PROJ-CSD782 | B.Tech CSE (Data Science) | Group 1 | Supervisor: Rudranath Mitra*
 
 *All original code structure, algorithmic concepts, and research documentation have been preserved in compliance with open-source licensing principles.*
